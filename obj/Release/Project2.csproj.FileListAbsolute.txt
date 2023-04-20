@@ -1,0 +1,11 @@
+E:\Курсовая2\Project2\bin\Release\Project2.exe.config
+E:\Курсовая2\Project2\bin\Release\Project2.exe
+E:\Курсовая2\Project2\bin\Release\Project2.pdb
+E:\Курсовая2\Project2\obj\Release\Project2.Form1.resources
+E:\Курсовая2\Project2\obj\Release\Project2.Winner.resources
+E:\Курсовая2\Project2\obj\Release\Project2.GameOver.resources
+E:\Курсовая2\Project2\obj\Release\Project2.Properties.Resources.resources
+E:\Курсовая2\Project2\obj\Release\Project2.csproj.GenerateResource.cache
+E:\Курсовая2\Project2\obj\Release\Project2.csproj.CoreCompileInputs.cache
+E:\Курсовая2\Project2\obj\Release\Project2.exe
+E:\Курсовая2\Project2\obj\Release\Project2.pdb
